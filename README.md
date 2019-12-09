@@ -7,3 +7,10 @@ The portfolio site you develop this term is ultimately what you will use to pres
 Html5, css, and Java Script.
 
 Designed with Photoshop and Illustrator, a style guide for Indesign.
+
+## Authors
+Mengyang Li ( Designer and Developer)
+
+
+## Acknowledgments
+Fanshawe College IDP3
