@@ -2,7 +2,7 @@
 
 	class DB {
 		private $conn;
-		private $db_user="root";
+		private $db_user="msg_database";
 		private $db_pwd="123456";
 		private $db_localhost="localhost";
 		private $db_database="msg_database";
